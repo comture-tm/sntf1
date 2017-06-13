@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="vendor" max_length="40" name="x_92447_1st_test_vendor" type="collection">
+        <element label="Vendor ID" max_length="40" name="vendor_id" type="string"/>
+    </element>
+</database>
