@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="device" max_length="40" name="x_92447_1st_test_device" type="collection">
+        <element label="Device ID" max_length="40" name="device_id" type="string"/>
+    </element>
+</database>
